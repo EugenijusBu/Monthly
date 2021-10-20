@@ -1,0 +1,34 @@
+.container{
+
+    width: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.hero img {
+  width: 100%;
+  border-radius: 0;
+
+}
+
+aside{
+
+    text-align: center;
+}
+
+aside.left{
+
+    float: none;
+}
+
+aside.right{
+
+    float: none;
+}
+
+.center{
+  text-align: center;
+}
+
